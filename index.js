@@ -1,3 +1,4 @@
+# version 0.2
 var os = require('os')
 var http = require('http')
 
